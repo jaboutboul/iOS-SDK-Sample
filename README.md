@@ -9,5 +9,8 @@ This requires use of the [ooVoo iOS SDK](http://www.oovoo.com/SDK) which is sepa
 ## Getting the SDK
 Please visit [ooVoo SDK site](http://www.oovoo.com/SDK) to register and obtain a development token and AppID.
 
+## Support
+If you need help with the SDK or this app you can find us on [#ooVoo on freenode](irc://irc.freenode.net/#oovoo) or email [sdk.support@oovoo.com](sdk.support@oovoo.com)
+
 ## TODO
 Documentation
